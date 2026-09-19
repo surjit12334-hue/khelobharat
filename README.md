@@ -16,6 +16,18 @@
 
 ---
 
+<div align="center">
+
+### 🇮🇳 Proudly Made in India
+
+> **No major Indian sports management platform exists!**
+> All alternatives like Score7 (UK), FairGame (Iceland), Tournify (Netherlands), LeagueLobster (USA) are foreign-made.
+> **Khelo Bharat fills this gap** — built specifically for the Indian sports ecosystem.
+
+</div>
+
+---
+
 ## 🌟 Features
 
 ### 🏅 Fixture Management
@@ -160,6 +172,20 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
+## 🏆 Why Khelo Bharat?
+
+| Feature | Khelo Bharat 🇮🇳 | Score7 🇬🇧 | Tournify 🇳🇱 | LeagueLobster 🇺🇸 |
+|---------|:---:|:---:|:---:|:---:|
+| Made for India | ✅ | ❌ | ❌ | ❌ |
+| Indian Sports (Cricket, Kabaddi) | ✅ | ❌ | ❌ | ❌ |
+| Certificate Generation | ✅ | ❌ | ❌ | ❌ |
+| Email Integration | ✅ | ✅ | ❌ | ❌ |
+| Multi-language (Hindi, etc.) | ✅ | ❌ | ❌ | ❌ |
+| Indian Payment Support | ✅ | ❌ | ❌ | ❌ |
+| Free to Use | ✅ | Freemium | Paid | Freemium |
+
+---
+
 ## 💡 Use Cases
 
 | Who | How Khelo Bharat Helps |
@@ -189,6 +215,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 ### 🙏 Made with ❤️ for Indian Sports
+
+**The first open-source sports management platform built for India** 🇮🇳
 
 **⭐ Star this repo if you find it helpful!**
 
